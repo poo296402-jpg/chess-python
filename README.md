@@ -1,4 +1,4 @@
-A playable 2D chess game and custom move-generation engine built from scratch in Python and Pygame—with zero external chess libraries. CHECKMATE DOESN'T WORK (yet)
+make a 100 words A playable 2D chess game and custom move-generation engine built from scratch in Python and Pygame—with zero external chess libraries. CHECKMATE DOESN'T WORK (yet)
 
 Install instructions
 
